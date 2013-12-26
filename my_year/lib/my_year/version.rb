@@ -1,0 +1,3 @@
+module MyYear
+  VERSION = "0.0.1"
+end
